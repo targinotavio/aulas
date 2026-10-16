@@ -1,0 +1,6 @@
+NOME | oo0oo
+ NOTA| 4
+NOME | tttttt
+ NOTA| 5
+NOME | aaaa
+ NOTA| 3
